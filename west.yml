@@ -206,7 +206,7 @@ manifest:
         - hal
     - name: hal_nordic
       remote: fork_hal
-      revision: d18de943267f658f585e6c00c1bf420f43c93845
+      revision: f9a89022543688543e60a8fd011357c0051fe86d
       path: modules/hal/nordic
       groups:
         - hal
